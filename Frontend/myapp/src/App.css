@@ -1,0 +1,122 @@
+.active {
+  color: rgb(233, 166, 37) !important;
+}
+.nav-link {
+  font-size: large !important;
+}
+
+#nav1 {
+  position: sticky !important;
+  top: 0;
+  z-index: 1 !important;
+  background-color: white !important;
+}
+
+#heading1 {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  color: rgb(233, 166, 37) !important;
+}
+
+#heading2 {
+  font-family: sans-serif !important;
+  font-size: 52px !important;
+  font-weight: 600 !important;
+  line-height: 50px !important;
+  color: rgb(59, 138, 59) !important;
+}
+
+#heading3 {
+  font-family: sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgba(62, 46, 18, 0.8) !important;
+}
+
+#heading4 {
+  font-family: Lato, sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgb(62, 46, 18) !important;
+}
+
+.c1 {
+  font-family: Lato, sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgb(62, 46, 18) !important;
+}
+
+#head_1 {
+  font-family: sans-serif !important;
+  font-size: 38px !important;
+  font-weight: 600 !important;
+  line-height: 42px !important;
+  color: rgb(59, 138, 59) !important;
+}
+
+#head_2 {
+  font-family: sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgb(62, 46, 18) !important;
+}
+
+.br1 {
+  border-radius: 25px !important;
+  overflow: hidden !important;
+}
+.im1:hover {
+  transform: scale(1.2) !important;
+  
+}
+
+#head_3 {
+  font-family: sans-serif !important;
+  font-size: 38px !important;
+  font-weight: 600 !important;
+  line-height: 42px !important;
+  color: rgb(46, 107, 46) !important;
+}
+
+.h_1 {
+  font-family: sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgb(62, 46, 18) !important;
+}
+
+.b_1 {
+  color: #e9a64c !important;
+}
+
+.h_2 {
+  font-family: sans-serif !important;
+  font-size: 38px !important;
+  font-weight: 600 !important;
+  line-height: 42px !important;
+  color: rgb(59, 138, 59) !important;
+}
+
+.h_11 {
+  font-family: sans-serif !important;
+  font-size: 22px !important;
+  font-weight: 600 !important;
+  line-height: 30px !important;
+  color: rgb(59, 138, 59) !important;
+}
+.h_22 {
+  font-family: sans-serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 25.5px !important;
+  color: rgb(62, 46, 18) !important;
+}
