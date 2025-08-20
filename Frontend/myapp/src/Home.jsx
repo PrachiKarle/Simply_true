@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Product from "./Product";
 import Snack from "./Snack";
 import Stands from "./Stands";
+import MealDay from "./MealDay";
 
 const Home = () => {
   return (
@@ -71,11 +72,14 @@ const Home = () => {
         </div>
       </div>
 
+      {/*Features 1: products with filter with calories */}
       <Product />
+      {/*Features 2: Meal of day */}
+      <MealDay />
 
       <Snack />
 
-      <Stands/>
+      <Stands />
     </>
   );
 };

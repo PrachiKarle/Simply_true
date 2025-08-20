@@ -37,7 +37,7 @@ const Stands = () => {
         </h6>
       </div>
 
-      <div className="row m-0 px-5">
+      <div className="row m-0 px-5 py-4">
         {s.map((val, i) => {
           return (
             <>
@@ -54,7 +54,7 @@ const Stands = () => {
         })}
       </div>
 
-      <div className="row m-0 p-2 text-center">
+      <div className="row m-0 py-4 text-center">
         <button className="btn btn-warning text-light m-auto" style={{width:"15%"}}>Try our Snacks</button>
       </div>
     </>
